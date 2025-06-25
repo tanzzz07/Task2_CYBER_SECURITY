@@ -1,0 +1,16 @@
+# 🛡️ Phishing Email Analysis
+
+## 📧 Sample Email Summary
+- From: `security-alert@micros0ft-support.com`
+- Subject: Urgent – Suspicious Activity Detected
+- Link: `https://microsoft-support-login.com/verify`
+
+## 🚩 Phishing Signs Detected
+- Spoofed domain (`micros0ft-support.com` instead of microsoft.com)
+- Suspicious link with misleading display
+- Generic greeting (“Dear user”)
+- Threatening language to scare user
+- Grammar and formatting issues
+
+## ✅ Conclusion
+This is a phishing email trying to trick the recipient into clicking a fake link to steal login credentials.
